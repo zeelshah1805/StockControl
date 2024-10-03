@@ -1,0 +1,2 @@
+# StockControl
+Inventory Management System
